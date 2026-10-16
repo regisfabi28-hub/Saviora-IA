@@ -1,0 +1,8 @@
+{
+  "name": "Saviora IA",
+  "description": "Annuaire intelligent des meilleurs outils d'intelligence artificielle en français avec assistant de recommandation personnalisé, fiches d'évaluation et comparateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
